@@ -1,2 +1,7 @@
-# Game-Design-using-Python-Tkinter-
-Classic Snake Game and Bounce and Pong implemented using Python(Tkinter).
+# Game-Design-using-Python-Tkinter
+
+Developed some fun games with Python's Tkinter module like Calculator, Paddle game, Pong, Tic-Tac-Toe etc. 
+
+### Dependencies
+
+Tkinter 
