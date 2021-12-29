@@ -8,4 +8,4 @@ Tkinter
 
 #### Note
 
-I developed these programs about 4-5 years back during my bachelor's . I forgot to push it on github that time so doing it now ;)
+I developed these programs about 4 years back during my bachelor's . I forgot to push it on github that time so doing it now ;)
