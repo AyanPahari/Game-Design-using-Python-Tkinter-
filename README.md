@@ -5,3 +5,7 @@ Developed some fun games with Python's Tkinter module like Calculator, Paddle ga
 ### Dependencies
 
 Tkinter 
+
+#### Note
+
+I developed these programs about 4-5 years back during my bachelor's . I forgot to push it on github that time so doing it now ;)
